@@ -348,3 +348,4 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+sda_lab4_18/.opencppcov/sda_lab4_18/Debug_x64.json
